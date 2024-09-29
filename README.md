@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # 💫 About Me:
 🌱 I’m currently a student of B.Tech at Gandhi Institute for Technology Advancements, Bhubaneswar.<br>👀 Languages/Tools I know are C, Python, HTML5, CSS3, JavaScript, FIGMA, Java (basics).<br>🤝 I thrive on acquiring new skills and knowledge.<br>🙋 I am deeply interested in Full Stack Development and UI/UX Design.<br>
